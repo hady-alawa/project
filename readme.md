@@ -4,9 +4,9 @@ A brief description of what this project does and who it's for.
 
 ## 🚀 Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1 only for 29$
+- Feature 2 only for 5$
+- Feature 3 only for 3$$
 
 ## 🛠️ Built With
 
